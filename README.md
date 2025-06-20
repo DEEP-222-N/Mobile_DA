@@ -8,7 +8,7 @@ This project focuses on analyzing smartphone specifications and pricing trends t
 
 The dataset, containing various mobile phone specifications such as price, RAM, storage, battery, and camera, was first cleaned and preprocessed using Pandas in Google Colab. After transforming and exporting the data, a detailed dashboard was created in Power BI to explore insights across multiple dimensions including brand performance, feature distribution, and value comparisons.
 
-Key highlights:
+**Key highlights:**
 
 Brand-wise distribution of phones to understand positioning across price and spec ranges
 
