@@ -22,7 +22,7 @@ International vs. domestic price comparison for regional pricing analysis
 
 Custom DAX calculations to rank devices by feature-to-price efficiency
 
-Tools and workflow:
+**Tools and workflow**:
 
 Google Colab (Python, Pandas) for data cleaning and transformation
 
